@@ -1,5 +1,5 @@
 ### Seja Bem vindo👋
-##Ola meu nome é Kaíque Delvizio, No momento sou um jovem em treinamento em ciência da computação pelo projeto SerraTec
+## Ola meu nome é Kaíque Delvizio, No momento sou um jovem em treinamento em ciência da computação pelo projeto SerraTec
 ![amity-waving](https://user-images.githubusercontent.com/127156120/225161424-28cad6f9-1bd1-4063-839b-4429407a5253.gif)
 
 ![PlayerRetr0 GitHub stats](https://github-readme-stats.vercel.app/api?username=PlayerRetr0&show_icons=true&theme=highcontrast)
