@@ -3,6 +3,7 @@
 ![amity-waving](https://user-images.githubusercontent.com/127156120/225161424-28cad6f9-1bd1-4063-839b-4429407a5253.gif)
 
 ![PlayerRetr0 GitHub stats](https://github-readme-stats.vercel.app/api?username=PlayerRetr0&show_icons=true&theme=highcontrast)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaíque-delvizio-776a2a25a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaiqueblight/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/PlayerRetr0#0816)
