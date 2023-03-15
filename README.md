@@ -1,4 +1,4 @@
-### Seja Bem vindo👋
+### Seja Bem vindo👾⚡👾
 ## Olá meu nome é Kaíque Delvizio, No momento sou um jovem em treinamento em Desenvolvimento de Software pelo projeto SerraTec
 ![amity-waving](https://user-images.githubusercontent.com/127156120/225161424-28cad6f9-1bd1-4063-839b-4429407a5253.gif)
 
