@@ -14,10 +14,10 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-9400D3?style=for-the-badge&logo=html5&logoColor=white" />
     </div></br>
     <div style="display: inline_block"><br/>
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-40E0D0?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-40E0D0?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-40E0D0?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-40E0D0?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-00FF7F?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-00FF7F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img align="center" alt="react" src="https://img.shields.io/badge/React-00FF7F?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-00FF7F?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div></br>
 
 <!--
