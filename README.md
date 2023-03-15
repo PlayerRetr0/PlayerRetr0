@@ -1,7 +1,6 @@
 ### Seja Bem vindo👋
 ## Olá meu nome é Kaíque Delvizio, No momento sou um jovem em treinamento em Desenvolvimento de Software pelo projeto SerraTec
 ![amity-waving](https://user-images.githubusercontent.com/127156120/225161424-28cad6f9-1bd1-4063-839b-4429407a5253.gif)
-
 ![PlayerRetr0 GitHub stats](https://github-readme-stats.vercel.app/api?username=PlayerRetr0&show_icons=true&theme=highcontrast)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-40E0D0?style=for-the-badge&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/kaíque-delvizio-776a2a25a/)
